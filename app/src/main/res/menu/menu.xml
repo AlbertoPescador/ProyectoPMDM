@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Inicio"
+        android:id="@+id/inicio" />
+
+    <item android:title="Añadir jugador"
+        android:id="@+id/anadir_jugador" />
+
+    <item android:title="Editar jugador"
+        android:id="@+id/editar_jugador" />
+
+    <item android:title="Cerrar sesion"
+        android:id="@+id/cerrar_sesion"/>
+
+</menu>
